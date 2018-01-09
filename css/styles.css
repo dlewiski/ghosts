@@ -1,7 +1,15 @@
-img {
+.ghost1 {
   display: none;
 }
-.clickable {
+.ghost2 {
+  display: none;
+}
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+  text-decoration: underline;
+}
+.clickable2 {
   cursor: pointer;
   color: #0088cc;
   text-decoration: underline;
@@ -28,5 +36,6 @@ h2 {
 }
 
 #secondGhost {
-  color: orange;
+  color: maroon;
+  display: none;
 }
